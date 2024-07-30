@@ -1,0 +1,43 @@
+/* Styles for Services Overview */
+.services-overview {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .services-overview h2 {
+    margin-bottom: 15px;
+  }
+  
+  .services-overview ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services-overview li {
+    margin-bottom: 10px;
+  }
+  
+  .services-overview span {
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  .services-overview button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .services-overview button:hover {
+    background-color: #0056b3;
+  }
+  
+  .service-details {
+    margin-top: 20px;
+  }
+  

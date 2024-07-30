@@ -1,0 +1,38 @@
+/* Styles for the Appointment Scheduler */
+.appointment-scheduler {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .appointment-scheduler h2 {
+    margin-bottom: 15px;
+  }
+  
+  .appointment-scheduler input,
+  .appointment-scheduler button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .appointment-scheduler input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .appointment-scheduler button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .appointment-scheduler button:hover {
+    background-color: #218838;
+  }
+  

@@ -1,0 +1,53 @@
+/* Styles for Testimonials */
+.testimonials {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .testimonials h2 {
+    margin-bottom: 15px;
+  }
+  
+  .testimonials ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .testimonials li {
+    margin-bottom: 10px;
+  }
+  
+  .testimonials form {
+    margin-top: 20px;
+  }
+  
+  .testimonials input,
+  .testimonials textarea,
+  .testimonials button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .testimonials input,
+  .testimonials textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .testimonials button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .testimonials button:hover {
+    background-color: #218838;
+  }
+  
